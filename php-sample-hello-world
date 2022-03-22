@@ -1,5 +1,0 @@
-<?php
-print "Hello,World! The php version is " . PHP_VERSION . "\n";
-print "The plaform for test is CRC \n";
-print "Another line in the file...\n";
-?>
